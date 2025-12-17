@@ -7,3 +7,5 @@ on both topics explored in the class and our interests. We decided upon this que
 For this project, I designed and wrote the majority of the code, while my teammates Joseph and Vidhya focused on interpretation of results and presentation of findings.
 
 I am publishing this simply as a work example. I no longer have access to the brain scans used for analysis.
+
+I included both the original livescript (.mlx), and a normal script (.m). MATLAB (online or application) is needed to view the .mlx file. The .mlx file has figures and analysis, while the .m file only has the code. The NBS toolbox (https://www.nitrc.org/projects/nbs/) was used for some steps (mainly xyz to mni mapping and plotting).
